@@ -1,6 +1,6 @@
 # RPA Uipath Tutorial
 
-![Project Image](36ecff05624016b39597e0c43fbd162c.jpg)
+![Project Image](.screenshots/36ecff05624016b39597e0c43fbd162c.jpg)
 More images of the project can be found in the ".screenshots" folder.
 
 ---
